@@ -61,7 +61,7 @@ import {
 	Vector3,
 	VectorKeyframeTrack,
 	sRGBEncoding
-} from 'https://unpkg.com/three/build/three.module.js';
+} from 'https://raw.githubusercontent.com/Ionlyunderstandlua/gltf/main/modded_three.js';
 import { toTrianglesDrawMode } from 'https://raw.githubusercontent.com/Ionlyunderstandlua/gltf/main/BufferGeometryUtils.js';
 
 class GLTFLoader extends Loader {
